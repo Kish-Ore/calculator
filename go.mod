@@ -1,3 +1,3 @@
-module github.com/Kish-Ore/calculator/v2
+module github.com/Kish-Ore/calculator/v3
 
 go 1.19
